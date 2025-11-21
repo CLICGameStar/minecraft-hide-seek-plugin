@@ -1,0 +1,4 @@
+name: minecraft-hide-seek-plugin
+version: '0.1-SNAPSHOT'
+main: ch.timeo.minecraftHideSeekPlugin.MinecraftHideSeekPlugin
+api-version: '1.21'
